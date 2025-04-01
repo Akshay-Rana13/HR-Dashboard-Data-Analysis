@@ -28,6 +28,9 @@ The goal of this project is to analyze HR data and create an interactive dashboa
 - Hiring Growth: 20 new employees joined in 2023, showing steady workforce expansion.
 - Top Job Roles: Packaging Assistants, Production Staff, and Sales Representatives are the most common roles.
 - Leave Trends: 29 employees have a leave balance exceeding 20 days.
+  
+## Interactive Dashboard & Image
+- 
 
 ## Final Conclusion
 The Power BI HR dashboard provides a comprehensive view of workforce trends, enabling HR managers to optimize recruitment, salary planning, and employee well-being. The interactive features allow for deep analysis of gender distribution, salary trends, and hiring growth, facilitating strategic decision-making in employee management.
