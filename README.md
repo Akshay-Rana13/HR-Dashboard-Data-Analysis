@@ -3,7 +3,7 @@
 The goal of this project is to analyze HR data and create an interactive dashboard using Power BI. This dashboard helps visualize workforce metrics for Awesome Chocolates, enabling the HR team to make informed decisions.
 
 ## Dataset Used
-The dataset provided contains HR-related information such as headcount, salary, employee qualifications, age distribution, gender ratio, and hiring trends.
+<a href="https://github.com/Akshay-Rana13/HR-Dashboard-Data-Analysis/blob/main/hr-data.xlsx">
 
 ## Key Performance Indicators (KPIs)
 - Headcount: Total number of employees.
