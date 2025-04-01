@@ -30,6 +30,7 @@ The goal of this project is to analyze HR data and create an interactive dashboa
 - Leave Trends: 29 employees have a leave balance exceeding 20 days.
   
 ## Interactive Dashboard & Image
+- <a href="https://github.com/Akshay-Rana13/HR-Dashboard-Data-Analysis/blob/main/HR%20Dashboard.pbix">Interactive Dashboard</a>
 - 
 
 ## Final Conclusion
