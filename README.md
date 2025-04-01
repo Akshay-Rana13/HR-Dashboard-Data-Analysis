@@ -30,8 +30,10 @@ The goal of this project is to analyze HR data and create an interactive dashboa
 - Leave Trends: 29 employees have a leave balance exceeding 20 days.
   
 ## Interactive Dashboard & Image
-- <a href="https://github.com/Akshay-Rana13/HR-Dashboard-Data-Analysis/blob/main/HR%20Dashboard.pbix">Interactive Dashboard</a>
- ![HR Dashboard Image](https://github.com/user-attachments/assets/45306952-e888-478b-825e-32f7e14d5196)
+![HR Dashboard Image](https://github.com/user-attachments/assets/45306952-e888-478b-825e-32f7e14d5196)
+- For an interactive visualization, download Power BI Desktop and use the associated Power BI file. 
+  <a href="https://github.com/Akshay-Rana13/HR-Dashboard-Data-Analysis/blob/main/HR%20Dashboard.pbix">Interactive Dashboard</a>
+
 
 ## Final Conclusion
 The Power BI HR dashboard provides a comprehensive view of workforce trends, enabling HR managers to optimize recruitment, salary planning, and employee well-being. The interactive features allow for deep analysis of gender distribution, salary trends, and hiring growth, facilitating strategic decision-making in employee management.
