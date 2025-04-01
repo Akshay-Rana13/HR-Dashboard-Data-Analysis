@@ -31,7 +31,7 @@ The goal of this project is to analyze HR data and create an interactive dashboa
   
 ## Interactive Dashboard & Image
 - <a href="https://github.com/Akshay-Rana13/HR-Dashboard-Data-Analysis/blob/main/HR%20Dashboard.pbix">Interactive Dashboard</a>
-- 
+- <a href="https://github.com/Akshay-Rana13/HR-Dashboard-Data-Analysis/blob/main/HR%20Dashboard%20Image.png"></a>
 
 ## Final Conclusion
 The Power BI HR dashboard provides a comprehensive view of workforce trends, enabling HR managers to optimize recruitment, salary planning, and employee well-being. The interactive features allow for deep analysis of gender distribution, salary trends, and hiring growth, facilitating strategic decision-making in employee management.
