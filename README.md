@@ -1,4 +1,4 @@
-# HR-Dashboard-Data-Analysis Using Power Bi
+# HR Data Analytics: Workforce Trends & Insights Using Power Bi
 ## Project Objective
 The goal of this project is to analyze HR data and create an interactive dashboard using Power BI. This dashboard helps visualize workforce metrics for Awesome Chocolates, enabling the HR team to make informed decisions.
 
